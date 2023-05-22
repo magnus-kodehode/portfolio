@@ -6,7 +6,7 @@
  position: fixed;
  z-index: 1000;
  top: 0;
- height: 10vh;
+ height: 5em;
  width: 100vw;
  background-color: #016CB1;
  padding: 1rem;
@@ -78,7 +78,7 @@ text-shadow: 0 0 1px black;
   width: 70%;
   min-height: 500px;
   background-color: rgba(155, 228, 245, 0.85);
-  margin-top: 6rem;
+  margin-top: 6em;
   padding-bottom: 2rem;
   border-radius: 6px;
   box-shadow: 1px 1px 5px black;
@@ -314,7 +314,7 @@ text-shadow: 0 0 1px black;
     position: fixed;
     z-index: 1000;
     top: 0;
-    height: 8vh;
+    height: 4rem;
     width: 100vw;
     background-color: #016CB1;
     padding: 1rem;
@@ -387,4 +387,5 @@ text-shadow: 0 0 1px black;
 
 /* End of mobile verstion styling */
 
+/* Larger screens styling */
 
